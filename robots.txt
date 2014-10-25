@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://digitalight.github.io/sitemap.xml 
