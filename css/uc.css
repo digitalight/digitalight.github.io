@@ -1,0 +1,15 @@
+.center {
+	text-align: center;
+}
+
+body {
+	background-color: #111;
+}
+
+img {
+	padding: 1rem;
+}
+
+p {
+	color: #fff;
+}

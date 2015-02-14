@@ -1,0 +1,40 @@
+/* Digitalight CSS */
+/* Stop snooping and get back to work */
+
+/* Modified Feb 2015 */
+
+/* [IMPORTS] */
+
+@import url(http://fonts.googleapis.com/css?family=Patua+One);
+
+/* [CORE] */
+
+body {
+	background-image: url("../img/rainbow.png");
+	background-repeat: repeat;
+}
+
+
+/* [TYPOGRAPHY] */
+
+h1, h2, h3, h4, h5, p, a {
+	font-family: 'Patua One', cursive;
+	color: white;
+}
+
+/* [TITLE] */
+
+.title {
+}
+
+
+.title h1 {
+	font-size: 4rem;
+	text-align: center;
+	padding: 6rem 2rem 1rem 2rem;
+
+}
+
+.title h3 {
+	text-align: center;
+}
