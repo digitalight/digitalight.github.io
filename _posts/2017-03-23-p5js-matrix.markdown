@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "p5.js Matrix Code"
+date:   2017-03-23 16:15:42 +0100
+categories: p5js
+---
+![Imgur](http://i.imgur.com/g2bHb9ql.png)
+
+Hi everyone, I am a p5.js beginner but enjoying the videos from Dan Shiffman on [TheCodingTrain](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) youtube channel.
+
+Today I followed the tutorial by the guest presenter Emily on making a Matrix code effect.
+
+I tweaked the code a bit so it uses the fading effect that Emily used afterward in her github version and also added numbers
+into it and making sure they are centred correctly.
+
+Here is the page [Click Here](https://digitalight.github.io/p5js-matrix/)
+
+And the repo for this is : [https://github.com/digitalight/p5js-matrix](https://github.com/digitalight/p5js-matrix)
