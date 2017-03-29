@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Playing with Jekyll"
+date:   2017-03-29 10:38:00 +0100
+categories: jekyll
+comments: true
+---
+I have started getting more into Git and Github as you probably see by the new posts.
+
+Dan Shiffman has a great series of tutorials that explained Git and Github really well that made it click for me this time round.
+I tried using Github a while back and didn't really understand it.
+
+[Dan Shiffman's Git and GitHub for Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
+
+With playing around with Github, I have revisited Github Pages (this site) and decided to have a go at Jekyll. Something that I tried to learn some years ago but just didn't understand the concepts.
+Hopefully if you are reading this post it means I have had some success.
+
+Jekyll is a very different approach if you are use to Wordpress or coding a website from scratch in a text editor.
+
+One change I have made to my setup is trying out Xubuntu linux distro as the tools seem to be better than on Windows 10. (Some may say anything is better than Windows 10)
+
+Anyway, thank you for visiting and hopefully you'll return soon.
