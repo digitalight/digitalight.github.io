@@ -3,8 +3,9 @@ layout: post
 title:  "p5.js Matrix Code"
 date:   2017-03-23 16:15:42 +0100
 categories: p5js
+comments: true
 ---
-![Imgur](http://i.imgur.com/g2bHb9ql.png)
+[![Imgur](http://i.imgur.com/g2bHb9ql.png,https://digitalight.github.io/p5js-matrix/)](https://digitalight.github.io/p5js-matrix/)
 
 Hi everyone, I am a p5.js beginner but enjoying the videos from Dan Shiffman on [TheCodingTrain](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) youtube channel.
 
