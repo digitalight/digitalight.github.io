@@ -5,13 +5,13 @@ date:   2017-03-30 08:00:00 +0100
 categories: p5js
 comments: true
 ---
-[![Imgur](http://i.imgur.com/Smk23Zz.png)](https://github.com/digitalight/p5js-ISS)
+[![Imgur](http://i.imgur.com/Smk23Zz.png)](https://digitalight.github.io/p5js-ISS/)
 This one is all about API's. I have been watching Dan's videos on using API's
 
 I have combined the Mapbox API and ISS API to create a site that shows you where the Internation Space Station currently is on a world map.
 
 There are many sites out there that do this already but this was fun and an example to learn about API's.
 
-[Github link](https://github.com/digitalight/p5js-ISS)
+[View the ISS Tracker here](https://digitalight.github.io/p5js-ISS/)
 
-Only last minute issue I have found is that because the API only uses http protocol and Github Pages only allows Https protocol. The site will not run on Github and has to be downloaded locally first.
+[Github project files](https://github.com/digitalight/p5js-ISS)
